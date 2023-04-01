@@ -1,0 +1,219 @@
+body {
+    font-family: poppins;
+}
+
+h2 {
+    margin-top: -30px;
+    font-weight: 400;
+    font-size: 60px;
+}
+
+h1 {
+    font-size: 80px;
+    margin-top: -30px;
+}
+
+.rahman {
+    margin-top: -100px;
+    margin-bottom: -20px;
+}
+
+.img-bg {
+    margin-right: 30px;
+}
+
+.cv {
+    background-color: aqua;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 60px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.half-width {
+    display: 50%;
+    margin: 0px 200px;
+}
+
+.top-banner {
+    padding-top: 200px;
+    margin-top: -10px;
+    background-color: #fff8f3;
+    display: flex;
+    background-image: url(developer.png), url(header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom left, bottom right;
+    align-items: center;
+}
+
+.bio {
+    background-color: rgba(252, 235, 230, 0.577);
+    border-radius: 10px;
+    margin: 100px;
+    padding: 100px;
+    text-align: center;
+}
+
+.about {
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+
+.info {
+    display: flex;
+
+}
+
+h4 {
+    color: gray;
+}
+
+.info h4 {
+    margin-left: 100px;
+    padding-bottom: 40px;
+}
+
+.info h4 strong {
+    display: block;
+    font-size: 20px;
+    color: black;
+
+}
+
+p {
+    color: gray;
+    font-size: 20px;
+    padding-bottom: 40px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    background-color: rgba(248, 248, 248, 0.455);
+    display: flex;
+    margin: 10px 50px;
+    border-radius: 10px;
+}
+
+h5 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.mm {
+    color: gray;
+    font-size: 20px;
+}
+
+.js {
+    text-align: justify;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    padding-bottom: 30px;
+
+}
+
+.head {
+    font-size: 40px;
+    padding-top: 30px;
+}
+
+.resume-title {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+.Diploma {
+    margin-top: 40px;
+    margin-bottom: -20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+h6 {
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+
+
+.my-resume {
+    display: flex;
+    padding: 50px;
+}
+
+.my-education {
+    text-align: justify;
+    margin: 20px;
+}
+
+.my-experience {
+    text-align: justify;
+    margin: 20px;
+}
+
+.resume-cv {
+    text-align: center;
+}
+
+.social {
+    padding-bottom: 50px;
+    margin: 50px;
+    display: flex;
+    background-color: rgba(244, 223, 196, 0.353);
+}
+
+.icon {
+    padding-top: 100px;
+    margin-right: 300px;
+    margin-left: 100px;
+}
+
+.icon1 {
+    padding-top: 100px;
+    padding-left: 100px;
+    margin-right: 300px;
+    margin-bottom: 40px;
+}
+
+.mail {
+    height: 20px;
+    width: 180px;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 10px solid black;
+}
+
+.pass {
+    height: 20px;
+    width: 180px;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 10px solid black;
+}
+
+.text {
+    height: 100px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.button {
+    background-color: aqua;
+    border: black;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 15px;
+}
